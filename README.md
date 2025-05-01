@@ -59,7 +59,7 @@ Age-Salary Correlation: A mild positive correlation suggests salary may increase
 📂 Files Included
 project.ipynb: Jupyter Notebook with all preprocessing, analysis, and visualization code.
 
-abc_company_data.csv: Raw dataset used for the project.
+myexcel-myexcel.csv: Raw dataset used for the project.
 
 README.md: Project summary and documentation.
 
